@@ -1,10 +1,3 @@
-// ToDo any IO
-/*
-input = "very fff ff f #### #################### 11111111111111111111111111111111111 loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong text";
-console.log(input);
-
-arInput = input.split('');
-*/
 
 const { format } = require('path');
 
