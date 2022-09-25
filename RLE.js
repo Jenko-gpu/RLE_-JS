@@ -62,7 +62,7 @@ if (target) {
                 case "encode":
                     converted_text = encode(raw_text);
                     difference = converted_text.length/raw_text.length;
-                    console.log(`%difference:${difference}`);
+                    console.log(`difference:%${difference}`);
                     break;
             }
             
